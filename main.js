@@ -95,3 +95,5 @@ function idInvalidCardCompanies(invalidArrays){
 }
 
 console.log(idInvalidCardCompanies(invalidArrays));
+
+console.log('rerunning this for more practice') 
