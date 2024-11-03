@@ -95,3 +95,4 @@ function idInvalidCardCompanies(invalidArrays){
 }
 
 console.log(idInvalidCardCompanies(invalidArrays));
+console.log('im also making changes to this file so i can recommit and get more practice');
