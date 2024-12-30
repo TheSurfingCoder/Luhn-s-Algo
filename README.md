@@ -1,4 +1,2 @@
-# Luhn-s-Algo
-# Luhn-s-Algo
-# Luhn-s-Algo
-# Luhn-s-Algo
+## How to use code
+## 
